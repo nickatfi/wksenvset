@@ -2,8 +2,6 @@
 apt-get update 
 apt-get -y install puppet
 
-git clone https://github.com/nickatfi/wksenvset
-
 service puppet stop
 cp -f etc.hosts /etc/hosts
 cp -f puppet.agent.conf /etc/puppet/puppet.conf

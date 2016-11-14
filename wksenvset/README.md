@@ -1,4 +1,2 @@
 # wksenvset
-1. Edit hosts file and put correct ip address for the puppet server
-2. sudo agent_install.sh 
-
+Copy 'wksenvset' to puppet server's modules folder 

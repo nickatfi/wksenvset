@@ -1,6 +1,6 @@
 #!/bin/bash
 apt-get update 
-apt-get -y install puppet git
+apt-get -y install puppet
 
 git clone https://github.com/nickatfi/wksenvset
 
